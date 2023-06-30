@@ -17,7 +17,7 @@ Those .csv's are now properly formated and can be imported into Tableau.
 Pandas, Tableau, Python 3.10 or higher.
 
 #### Contributor
-Melih Orhan Yilmaz
-Christos Raptis
-Grégoire Hupin
-Paul Strazzulla
+Melih Orhan Yilmaz,
+Christos Raptis,
+Grégoire Hupin,
+Paul Strazzulla,
